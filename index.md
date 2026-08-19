@@ -5,7 +5,7 @@ hide: true
 show_reading_time: false
 ---
 
-Hi! My name is Savithr Mantravadi and this is the page ./,
+Hi! My name is Savithr Mantravadi
 
 ### Development Environment
 
