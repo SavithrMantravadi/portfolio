@@ -29,7 +29,7 @@ Hi! My name is [Your Full Name]
 
 {% comment %}
 Store long SVG path strings in Liquid variables so button markup stays simple.
-Then reference each value in `<path d="{{ ... }}">` for teaching and reuse.
+Then reference each value in `<path d="{ ... }">` for teaching and reuse.
 
 Quick way to find SVGs: open icon libraries (Heroicons, Lucide, Bootstrap Icons),
 copy the path d value, and paste it into a Liquid variable.
